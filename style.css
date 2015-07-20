@@ -1,0 +1,28 @@
+p {
+  color: red;
+  background-color: yellow}
+  @import url(http://fonts.googleapis.com/css?family=Poiret+One);
+h1 {
+  color: green;
+  background-color: black;
+  font-family: 'Poiret One', cursive;
+  margin-left: 520px;
+  margin-right: 520px;
+}
+
+  /* id */
+#whatever{
+  color: blue;
+}
+
+/* class */
+.bluetext {
+  color:blue;
+}
+html {
+  background-color:pink;
+}
+
+img {
+  flex-shrink: 3;
+}
